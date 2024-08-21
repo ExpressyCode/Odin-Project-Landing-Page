@@ -5,17 +5,22 @@
 
 .header {
     display: flex;
-    justify-content: space-around;
-    padding: 20px;
+    justify-content: space-between;
+    padding: 20px 150px;
     font-size: 24px;
     color: #F9FAF8;
     background-color: #1F2937;
+}
+
+.header-logo {
+    flex-shrink: 0;
 }
 
 ul {
     list-style-type: none;
     display: flex;
     gap: 20px;
+    flex-shrink: 0;
 }
 
 a {
