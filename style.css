@@ -38,3 +38,45 @@ a {
 
 /* section-one below */
 
+.section-one {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 150px;
+    background-color: #1F2937;
+}
+
+.section-one-info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.section-one-info h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+}
+
+.section-one-info p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.section-one-info button {
+    background-color: #3882f6;
+    width: 100px;
+    height: 25px;
+    color: #F9FAF8;
+    border-radius: 8px;
+    border: none;
+}
+
+.image-placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    color: #F9FAF8;
+    width: 500px;
+    height: 200px;
+}
