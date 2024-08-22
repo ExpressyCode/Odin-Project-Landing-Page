@@ -152,3 +152,11 @@ a {
     font-weight: bolder;
     color: #1F2937;
 }
+
+/* section-four below */
+
+.section-four {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 200px;
+}
