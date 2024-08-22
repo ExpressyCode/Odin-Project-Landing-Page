@@ -5,6 +5,10 @@
     margin: 0;
 }
 
+body {
+    font-family: system-ui;
+}
+
 /* header below */
 
 .header {
