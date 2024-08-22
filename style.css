@@ -90,7 +90,6 @@ a {
     align-items: center;
     padding: 50px 200px;
     gap: 20px;
-
 }
 
 .section-two h2 {
@@ -129,4 +128,28 @@ a {
 .text {
     text-align: center;
     
+}
+
+/* section-three below */
+
+.section-three {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 200px;
+    gap: 10px;
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-name {
+    display: flex;
+    justify-content: right;
+    font-weight: bolder;
+    color: #1F2937;
 }
