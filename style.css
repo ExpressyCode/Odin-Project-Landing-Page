@@ -156,7 +156,17 @@ a {
 /* section-four below */
 
 .section-four {
+    padding: 50px 200px;
+}
+
+.container-four {
     display: flex;
     justify-content: space-between;
-    padding: 50px 200px;
+    background-color: #3882f6;
+    padding: 30px 60px;
+    border-radius: 8px;
+}
+
+.section-four-text {
+    color: #F9FAF8;
 }
