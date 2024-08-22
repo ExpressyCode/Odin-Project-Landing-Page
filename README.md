@@ -1,3 +1,3 @@
 # Odin-Project-Landing-Page
 
-https://www.theodinproject.com/lessons/foundations-landing-page#project-solution
+https://www.theodinproject.com/lessons/foundations-landing-page
